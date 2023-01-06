@@ -3,6 +3,16 @@
 		"repoName": "Scarlet Repo by KanekiLeChomeur",
 		"repoIcon": "https://usescarlet.com/favicon.png"
 	},
+	"Stores": [{
+		"name": "AltStore",
+		"version": "1.4.2.a1",
+		"category": "Tweaked Apps",
+		"description": "Alt Store is a home for apps that push the boundaries of iOS. No jailbreak required.",
+		"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+		"category": "Stores",
+		"dev": "AltStore",
+		
+	}]
 	"Tweaked": [{
 		"name": "uYou",
 		"version": "17.49.6",
@@ -45,7 +55,7 @@
 		"version": "3.4.1",
 		"down": "https://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
 		"category": "Tweaked Apps",
-		"description": "A Tweaked version of Twitter",
+		"description": "Twitter++ is a fully featured tweak that allows you to modify how you interact with Twitter and how",
 		"bundleID": "com.atebits.Tweetie2",
 		"appstore": "com.atebits.Tweetie2"
 	}, {
