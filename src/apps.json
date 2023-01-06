@@ -45,7 +45,7 @@
 		"version": "3.4.1",
 		"down": "https://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
 		"category": "Tweaked Apps",
-		"description": "Twitter++ is a fully featured tweak that allows you to modify how you interact with Twitter and how",
+		"description": "A Tweaked version of Twitter",
 		"bundleID": "com.atebits.Tweetie2",
 		"appstore": "com.atebits.Tweetie2"
 	}, {
@@ -99,16 +99,8 @@
 				"https://taurine.app/",
 				"https://twitter.com/OdysseyTeam_"
 			]
-		}, {
-			"name": "AltStore",
-			"version": "1.4.2.a1",
-			"category": "Tweaked Apps",
-			"description": "Alt Store is a home for apps that push the boundaries of iOS. No jailbreak required.",
-			"icon": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-			"category": "Stores",
-			"dev": "AltStore",
-			"bundleID": "com.odysseyteam.taurine"
-		}, {
+		},
+		{
 			"name": "Odyssey",
 			"version": "1.4.2",
 			"icon": "https://theodyssey.dev/assets/images/icon.png",
