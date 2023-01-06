@@ -33,6 +33,22 @@
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
+		"name": "Crunchyroll++",
+		"version": "3.4.1",
+		"down": "https://www.cokernutx.com/ipa/panda-Crunchyroll-resigned.ipa",
+		"category": "Tweaked Apps",
+		"description": "A Tweaked version of Crunchyroll",
+		"bundleID": "com.crunchyroll.iphone",
+		"appstore": "com.crunchyroll.iphone"
+	}, {
+		"name": "Twitter++",
+		"version": "3.4.1",
+		"down": "https://www.cokernutx.com/ipa2/panda-twitter++-resigned.ipa",
+		"category": "Tweaked Apps",
+		"description": "A Tweaked version of Twitter",
+		"bundleID": "com.atebits.Tweetie2",
+		"appstore": "com.atebits.Tweetie2"
+	}, {
 		"name": "Sposify++",
 		"version": "8.6.42",
 		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
